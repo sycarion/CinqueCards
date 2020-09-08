@@ -22,3 +22,6 @@ Another minor difference is the different design for the card backs.
 
 ## Games
 In the Games folder will be rules for various games. Some, like Cinque Poker, will be similar to known US card games.
+
+## Credits
+The numbers and suits are from the Quivira font (http://www.quivira-font.com) and has been in the Public Domain since 2019. Earlier drafts used Font Awesome (https://fontawesome.com), but any icons used, including the numbers, were removed. It still helps to make great websites, though.
